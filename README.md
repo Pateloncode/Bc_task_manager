@@ -26,8 +26,6 @@ A full-stack task management app built with **Next.js** (frontend), **Tailwind C
 
 ## 📁 Project Structure
 
-```
-
 project-root/
 │
 ├── fronted/                # Next.js frontend
@@ -47,7 +45,6 @@ project-root/
 ├── README.md              # Project documentation
 └── ...
 
-````
 
 ---
 
