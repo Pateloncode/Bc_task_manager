@@ -20,7 +20,7 @@ A full-stack task management app built with **Next.js** (frontend), **Tailwind C
 ### Backend
 - [Express.js](https://expressjs.com/)
 - [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/) (or any database of your choice)
+- [MongoDB](https://www.mongodb.com/)
 
 ---
 
@@ -63,7 +63,7 @@ project-root/
 
 ```bash
 git clone https://github.com/yourusername/task-manager-app.git
-cd task-manager-app
+cd BC_task_manager
 ````
 
 ---
